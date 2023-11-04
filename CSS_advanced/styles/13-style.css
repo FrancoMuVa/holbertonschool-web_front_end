@@ -47,7 +47,7 @@ a:link {
 }
 
 a:visited {
-    font-family: italic;
+    font-style: italic;
 }
 
 a:hover {
