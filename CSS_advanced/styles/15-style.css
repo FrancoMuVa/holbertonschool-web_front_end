@@ -34,7 +34,7 @@ button{-webkit-appearance:button}
     --section-title-color: var(--color-black);
 }
 
-* {
+*, *:before, *:after {
     box-sizing: border-box;
 }
 
